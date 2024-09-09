@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.slick-dots {
+    bottom: 50px;
+}
+.slick-dots li {
+    width: 60px;
+}
